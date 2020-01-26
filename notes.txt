@@ -1,2 +1,10 @@
 To Create React package
 npm i -g create-react-app
+
+npx create-react-app my-first-app
+cd my-first-app
+npm start
+
+==
+Todo-
+run react app in different port.
